@@ -11,7 +11,7 @@ You are tasked with implementing an overloaded method called binarySearch. The f
 Implement each method by writting a binary search algorithm that will correctly return the index of the searched element. If the searched element does not appear in the array/arraylist return -1. You may implement the method using iteration or recursion. 
 
 
-Preconditions:
+Preconditions:  
 Assume both the array and arraylists have already been sorted. You do not need to implement a sorting algorithm. 
 
 
